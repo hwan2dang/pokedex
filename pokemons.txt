@@ -1,0 +1,13 @@
+Abra / 2'11" / 43 lbs / psychic / Arbok, Charmander
+Pikachu / 1'4" / 10 lbs / electoric / Para, Clefairy
+Arbok / 11'6" / 143 lbs / poison / Butterfree, Charmander
+Bulbasaur / 2'4" / 15 lbs / grass / Clefairy, Pikachu
+Butterfree / 3'7" / 70 lbs / bug / Pikachu, Arbok, Charmander
+Charmander / 2'0" / 19 lbs / fire / Butterfree, Squirtle
+Squirtle / 1'8" / 20 lbs / water / Diglett, Abra
+Diglett / 8" / 1.8 lbs / ground / Abra, Caterpie, Pikachu
+Caterpie / 1'0" / 6.4 lbs / bug / Butterfree, Charmander, Abra, Caterpie, Pikachu
+Clefairy / 2'0" / 200 lbs / fairy / Caterpie, Pikachu, Diglett, Clefairy
+Para / 1'0" / 100 lbs / bug / Clefairy, Pikachu, Abra, Para, Charmander
+Poliwag / 2'0" / 27 lbs / water / Charmander
+Psyduck / 2'7" / 43 lbs / water / Abra, Caterpie, Butterfree, Diglett
