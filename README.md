@@ -1,2 +1,2 @@
 # pokedex
- make a pokemon
+ make a pokemon.
